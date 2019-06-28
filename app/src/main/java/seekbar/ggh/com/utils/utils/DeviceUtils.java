@@ -26,7 +26,7 @@ import static android.Manifest.permission.ACCESS_WIFI_STATE;
 import static android.Manifest.permission.INTERNET;
 
 /**
- * <pre>
+ * <pre>设备相关
  *     author: Blankj
  *     blog  : http://blankj.com
  *     time  : 2016/8/1

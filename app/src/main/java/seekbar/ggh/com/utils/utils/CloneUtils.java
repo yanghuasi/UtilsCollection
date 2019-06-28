@@ -1,5 +1,6 @@
 package seekbar.ggh.com.utils.utils;
 
+
 import com.google.gson.Gson;
 
 import java.lang.reflect.Type;

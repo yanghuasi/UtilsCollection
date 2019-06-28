@@ -2,9 +2,6 @@ package seekbar.ggh.com.utils.utils;
 
 import android.content.Context;
 import android.telephony.TelephonyManager;
-
-import com.blankj.utilcode.util.Utils;
-
 import java.util.HashMap;
 
 /**

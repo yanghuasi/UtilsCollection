@@ -5,7 +5,6 @@ import android.graphics.drawable.Drawable;
 import android.os.Parcelable;
 import android.support.annotation.NonNull;
 
-import com.blankj.utilcode.constant.CacheConstants;
 
 import org.json.JSONArray;
 import org.json.JSONObject;
@@ -14,8 +13,10 @@ import java.io.Serializable;
 import java.util.HashMap;
 import java.util.Map;
 
+import seekbar.ggh.com.utils.constant.CacheConstants;
+
 /**
- * <pre>
+ * <pre>   二级缓存相关
  *     author: Blankj
  *     blog  : http://blankj.com
  *     time  : 2018/06/13

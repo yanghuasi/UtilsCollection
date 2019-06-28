@@ -11,7 +11,7 @@ import static android.hardware.Camera.Parameters.FLASH_MODE_OFF;
 import static android.hardware.Camera.Parameters.FLASH_MODE_TORCH;
 
 /**
- * <pre>
+ * <pre>闪光灯相关
  *     author: Blankj
  *     blog  : http://blankj.com
  *     time  : 2018/04/27

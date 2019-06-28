@@ -9,7 +9,7 @@ import java.net.URLDecoder;
 import java.net.URLEncoder;
 
 /**
- * <pre>
+ * <pre>编码解码相关
  *     author: Blankj
  *     blog  : http://blankj.com
  *     time  : 2016/08/07

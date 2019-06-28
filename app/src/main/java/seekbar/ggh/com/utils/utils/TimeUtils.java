@@ -1,15 +1,14 @@
 package seekbar.ggh.com.utils.utils;
 
 import android.support.annotation.NonNull;
-
-import com.blankj.utilcode.constant.TimeConstants;
-
 import java.text.DateFormat;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.util.Date;
 import java.util.Locale;
+
+import seekbar.ggh.com.utils.constant.TimeConstants;
 
 /**
  * <pre>

@@ -21,7 +21,7 @@ import java.util.Locale;
 import javax.net.ssl.HttpsURLConnection;
 
 /**
- * <pre>
+ * <pre>文件相关
  *     author: Blankj
  *     blog  : http://blankj.com
  *     time  : 2016/05/03

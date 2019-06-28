@@ -5,7 +5,7 @@ import android.os.Environment;
 import java.io.File;
 
 /**
- * <pre>
+ * <pre>关闭相关
  *     author: Blankj
  *     blog  : http://blankj.com
  *     time  : 2016/09/27

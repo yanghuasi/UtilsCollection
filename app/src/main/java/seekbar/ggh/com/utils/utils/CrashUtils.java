@@ -25,7 +25,7 @@ import java.util.concurrent.Future;
 import static android.Manifest.permission.WRITE_EXTERNAL_STORAGE;
 
 /**
- * <pre>
+ * <pre>崩溃相关
  *     author: Blankj
  *     blog  : http://blankj.com
  *     time  : 2016/09/27

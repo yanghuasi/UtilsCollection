@@ -35,7 +35,10 @@ import java.util.TreeSet;
 import java.util.concurrent.ConcurrentHashMap;
 
 /**
- * <pre>
+ * <pre>组件化开发会涉及到模块与模块之间相互调用，而各模块之间又是解偶的，
+ * 所以就产生了很多路由方案，或者是把接口下沉到 base 组件中，但在 StaticBus 看来，它们都略显复杂，
+ * StaticBus 只需调用一个静态函数便可自由穿梭于各个模块，就像一辆巴士，
+ * 由于是基于静态函数来实现，所以称她为 StaticBus，如今已支持 Kotlin。
  *     author: Blankj
  *     blog  : http://blankj.com
  *     time  : 2018/10/02

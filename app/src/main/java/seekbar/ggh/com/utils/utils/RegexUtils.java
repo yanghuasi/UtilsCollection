@@ -2,13 +2,13 @@ package seekbar.ggh.com.utils.utils;
 
 import android.support.v4.util.SimpleArrayMap;
 
-import com.blankj.utilcode.constant.RegexConstants;
-
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
+
+import seekbar.ggh.com.utils.constant.RegexConstants;
 
 /**
  * <pre>

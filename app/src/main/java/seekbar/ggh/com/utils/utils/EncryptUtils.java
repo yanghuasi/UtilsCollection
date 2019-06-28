@@ -28,7 +28,7 @@ import javax.crypto.spec.IvParameterSpec;
 import javax.crypto.spec.SecretKeySpec;
 
 /**
- * <pre>
+ * <pre>加密解密相关
  *     author: Blankj
  *     blog  : http://blankj.com
  *     time  : 2016/08/02

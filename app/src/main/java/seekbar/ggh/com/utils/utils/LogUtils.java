@@ -55,7 +55,7 @@ import javax.xml.transform.stream.StreamResult;
 import javax.xml.transform.stream.StreamSource;
 
 /**
- * <pre>
+ * <pre>日志相关
  *     author: Blankj
  *     blog  : http://blankj.com
  *     time  : 2016/09/21

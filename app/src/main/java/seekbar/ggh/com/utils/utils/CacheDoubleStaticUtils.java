@@ -11,7 +11,7 @@ import org.json.JSONObject;
 import java.io.Serializable;
 
 /**
- * <pre>
+ * <pre>二级缓存相关
  *     author: Blankj
  *     blog  : http://blankj.com
  *     time  : 2019/01/04
